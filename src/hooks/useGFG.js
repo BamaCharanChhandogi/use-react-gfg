@@ -9,7 +9,7 @@ const useGFG = (name)=>{
         const fetchProfile = async ()=>{
             try{
                 setLoading(true);
-                const response = await fetch(`https://gfg-api-1.onrender.com/${name}`);
+                const response = await fetch(`${process.env.GFG-API}/${name}`);
                 const profile = await response.json();
                 setProfile(profile);
             }catch(error){
