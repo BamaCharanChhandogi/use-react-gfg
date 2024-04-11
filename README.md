@@ -175,6 +175,6 @@ export default ProfileInterface;
 
 ## License
 
-MIT © [vre2h](https://github.com/BamaCharanChhandogi)
+MIT © [Bama](https://github.com/BamaCharanChhandogi)
 
 ---
