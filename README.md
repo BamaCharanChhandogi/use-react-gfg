@@ -4,6 +4,9 @@
 
 [![NPM](https://img.shields.io/npm/v/use-react-gfg.svg)](https://www.npmjs.com/package/use-react-gfg) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## Detail Blog Posts
+[bamacharan.hashnode.dev/introducing-react-gfg](https://bamacharan.hashnode.dev/introducing-react-gfg-fetch-your-geek-for-geeks-profile-details-with-ease)
+[dev.to/bamacharan/introducing-react-gfg](https://dev.to/bamacharan/introducing-react-gfg-fetch-your-geek-for-geeks-profile-details-with-ease-3ajc)
 ## Install
 
 - npm
@@ -175,6 +178,6 @@ export default ProfileInterface;
 
 ## License
 
-MIT © [Bama](https://github.com/BamaCharanChhandogi)
+MIT © [Bama](LICENSE)
 
 ---
