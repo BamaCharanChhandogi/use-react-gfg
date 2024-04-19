@@ -1,6 +1,6 @@
 {
   "name": "use-react-gfg",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "type": "module",
   "description": "This is an Npm package to fetch your Geeks for Geeks details",
   "main": "dist/index.js",
