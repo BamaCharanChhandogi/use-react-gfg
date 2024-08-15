@@ -1,8 +1,8 @@
 {
   "name": "use-react-gfg",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "type": "module",
-  "description": "This is an Npm package to fetch your Geeks for Geeks details",
+  "description": "A React hook to fetch and display complete profile details from Geeks for Geeks. Easily integrate GFG data into your React applications with use-react-gfg.",
   "main": "dist/index.js",
   "scripts": {
     "build:dev": "rollup -c --environment NODE_ENV:development",
@@ -17,7 +17,8 @@
   "bugs": {
     "url": "https://github.com/bamaCharanChhandogi/use-react-gfg/issues"
   },
-  "keywords": [
+  "homepage": "https://github.com/bamaCharanChhandogi/use-react-gfg#readme",
+ "keywords": [
     "react",
     "gfg",
     "geeksforgeeks",
@@ -28,7 +29,11 @@
     "coding-profile-details",
     "geeksforgeeks-profile-data",
     "custom-hooks",
-    "react-hooks"
+    "react-hooks",
+    "typescript",
+    "geeksforgeeks-api",
+    "developer-tools",
+    "coding-stats"
   ],
   "dependencies": {
     "@rollup/plugin-terser": "^0.4.4",
